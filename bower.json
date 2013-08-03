@@ -1,0 +1,18 @@
+{
+  "name": "fe-lat-feedback",
+  "dependencies": {
+    "requirejs": "2.1.8",
+    "jquery": "2.0.1",
+    "lodash": "1.3.1",
+    "requirejs-text": "https://raw.github.com/requirejs/text/2.0.10/text.js",
+    "fe-lat-global": "git@github.com:jonesdhtx/fe-lat-global.git",
+    "fe-lat-nav": "git@github.com:jonesdhtx/fe-lat-nav.git"
+  },
+  "devDependencies": {
+    "qunit": "1.12.0"
+  },
+  "ignore": [
+    "**",
+    "!dist"
+  ]
+}
